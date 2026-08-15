@@ -1,0 +1,20 @@
+{
+  "submissions (all types)": 355115,
+  "submissions NPORT-P or NPORT-P/A": 355115,
+  "  unparseable REPORT_DATE": 0,
+  "  unparseable FILING_DATE (treated as oldest)": 0,
+  "filings with SERIES_ID and REPORT_DATE": 336295,
+  "  filings reporting redemptions as negatives (made positive)": 67781,
+  "  superseded by a later filing (amendments)": 5193,
+  "filings after de-duplication": 331102,
+  "filings with no class returns": 0,
+  "filings with NA bridged to the previous filing": 298846,
+  "filings with |closure error| > 5% (not bridged)": 9574,
+  "filings with implausible NA reconstruction (flag_bad_na)": 20051,
+  "series-months covered by >1 filing (kept one)": 710,
+  "months dropped at the end (incomplete filing coverage)": 2,
+  "panel series-months (all funds)": 992596,
+  "series flagged as ETF by name": 5973,
+  "panel series-months eligible (bond, size, lagged ret)": 153230,
+  "bond funds eligible in >= 1 month": 2561
+}
